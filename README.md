@@ -1,2 +1,1 @@
-# workspace
-Contains projects that were undertaken to learn a skillset.
+# Portfolio Project using Django (Python)
